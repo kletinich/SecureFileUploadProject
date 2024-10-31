@@ -6,9 +6,9 @@ Features:
     The project contains to seperate sides for the client, written in c++, and the server, written in python.
   
 - Hybrid encryption:
-    Symetric encryption - for the initial client registration on the server side and the exchange of the private and public keys of each side.
+    Symetric encryption - for the initial client registration on the server side and the exchange of the private and public keys of each side.\n
     Asymetric encryption - for the rest of the communication between the client and the server.
   
 - File integrity check:
-    File integrity is verified using checksums, ensuring that files remain unaltered during transmission.
+    File integrity is verified using checksums, ensuring that files remain unaltered during transmission.\n
     This feature helps detect any corruption or tampering of data.
