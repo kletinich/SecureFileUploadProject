@@ -8,6 +8,7 @@ Features:
 - Hybrid encryption:
     Symetric encryption - for the initial client registration on the server side and the exchange of the private and public keys of each side.
     Asymetric encryption - for the rest of the communication between the client and the server.
-   File integrity check:
+  
+- File integrity check:
     File integrity is verified using checksums, ensuring that files remain unaltered during transmission.
     This feature helps detect any corruption or tampering of data.
