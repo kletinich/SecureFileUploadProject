@@ -4,10 +4,10 @@ This project implements a client-server architecture for secure file communicati
 Features:
 - <p> Client-server model: <br> The project contains to seperate sides for the client, written in c++, and the server, written in python. </p>
   
-- Hybrid encryption:
-    Symetric encryption - for the initial client registration on the server side and the exchange of the private and public keys of each side.
-    Asymetric encryption - for the rest of the communication between the client and the server.
+- <p> Hybrid encryption:
+   <br> Symetric encryption - for the initial client registration on the server side and the exchange of the private and public keys of each side.
+   <br> Asymetric encryption - for the rest of the communication between the client and the server. </p>
   
-- File integrity check:
-    File integrity is verified using checksums, ensuring that files remain unaltered during transmission.
-    This feature helps detect any corruption or tampering of data.
+- <p> File integrity check:
+    <br> File integrity is verified using checksums, ensuring that files remain unaltered during transmission.
+    <br> This feature helps detect any corruption or tampering of data. </p>
