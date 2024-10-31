@@ -1,2 +1,7 @@
 # SecureFileUploadProject
-This project implements a secure client-server application for file uploads using both symmetric and asymmetric encryption. The system ensures the confidentiality, integrity, and authenticity of files during transmission and storage.
+This project implements a client-server architecture for secure file communication. It allows users to send and receive files over the network with encryption, ensuring that sensitive data remains protected during transmission.
+
+Features:
+- ddd
+- ddd
+- ddd
